@@ -8,4 +8,4 @@ Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to 
 
 <!-- end slipsum code -->
 
-![]( https://www.google.fi/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiUicPxs87RAhUBBiwKHYd0AmYQjRwIBw&url=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000168%2F&psig=AFQjCNGuMzIs9XdBqXIv0trwq0B5oJZF1Q&ust=1484922058935315 )
+![]( https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg )
