@@ -1,2 +1,2 @@
-# ohjelmistosuunnittelu
+# Ohjelmistosuunnittelu
 ## ohjelmistosuunnittelu  &amp; testaus
