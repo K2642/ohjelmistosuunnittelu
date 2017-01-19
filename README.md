@@ -9,3 +9,5 @@ Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to 
 <!-- end slipsum code -->
 
 ![]( https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg )
+
+[Samuel l jackson wiki] (https://fi.wikipedia.org/wiki/Samuel_L._Jackson)
