@@ -14,7 +14,7 @@ Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to 
 
 
 
-| Leffa | Julkaisivuosi |
+| Leffa | Julkaisuvuosi |
 |:------|--------------:|
 | Pulp Fiction | 1994 |
 | Snakes on a plane | 2005 |
